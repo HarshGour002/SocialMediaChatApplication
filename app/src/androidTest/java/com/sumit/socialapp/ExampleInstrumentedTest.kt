@@ -1,4 +1,4 @@
-package com.sumit.socialapp
+package com.Harsh.socialapp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
